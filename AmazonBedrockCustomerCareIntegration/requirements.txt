@@ -1,0 +1,7 @@
+typing-extensions
+langchain-core
+langchain-huggingface
+langchain-groq
+langchain-community
+langchain
+langchain-text-splitters
